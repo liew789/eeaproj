@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "688684338275",
+    "firebase_url": "https://testfire-51e94.firebaseio.com",
+    "project_id": "testfire-51e94",
+    "storage_bucket": "testfire-51e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688684338275:android:ee944edc9663b16d",
+        "android_client_info": {
+          "package_name": "com.testfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688684338275-l496651hb6p8ig0tni201i45itpfle59.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "688684338275-l496651hb6p8ig0tni201i45itpfle59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn46xi-XejfVrpea_maApjhYwzn64vGqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
